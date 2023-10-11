@@ -1,6 +1,6 @@
 import  About  from './components/About' 
 import Navbar from './components/Navbar'
-import Skills from './components/skills'
+import Skills from './components/Skills'
 
 const App = () => (
 <div>
